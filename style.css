@@ -57,5 +57,5 @@ input[type="password"] {
 /* pseudo - classes */
 
 .cadastro-form div:nth-of-type(2){
-    background: purple;
+    background: blue;
 }
